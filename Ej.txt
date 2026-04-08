@@ -1,0 +1,2 @@
+Cree un programa q permita el ingreso de una pila y luego muestre 2 colas una con los valores de la pila pares y otra
+con los impares
